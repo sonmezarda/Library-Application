@@ -1,2 +1,2 @@
 # Library-Application
-Cloud storage library app for me
+Firebase Cloud storage Windows Desktop Application for me
