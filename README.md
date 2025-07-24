@@ -70,7 +70,3 @@ Library-Application/
 ## Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır. Ayrıntılar için `LICENSE` dosyasını inceleyebilirsiniz.
-
----
-
-Daha fazla detay istersen veya kodun belirli bir parçası hakkında açıklama istiyorsan lütfen bana belirt!
